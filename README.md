@@ -1,4 +1,4 @@
-# Laboratory work 1
+# Laboratory work 1 (HTTP and Git)
 
 Revert commit: https://github.com/SergeyOcheretenko/Architecture-1/commit/8d94377db23c25133ddf82d1d7b7a1ef9dc09b73
 
