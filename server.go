@@ -1,5 +1,5 @@
 package main
-
+ 
 import (
   "net/http"
   "time"
@@ -7,7 +7,7 @@ import (
 )
  
 type Time struct {
-  NowTime string `json:"time"`
+  NowTime string
 }
  
 func main() {
