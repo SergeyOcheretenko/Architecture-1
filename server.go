@@ -17,11 +17,11 @@ func main() {
     now := time.Now()
     formattedTime := now.Format(RFC3339)
  
-    structTime := Time{NowTime: formattedTime}
+    structTime := Time{formattedTime}
  
     data, _ := json.MarshalIndent(structTime, "", "\t")
     rw.Write(data)
   })
   http.ListenAndServe(":8795", nil)
-  
+
 }
