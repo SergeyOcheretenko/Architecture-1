@@ -1,4 +1,4 @@
-# Architecture-1
+# Laboratory work 1
 
 ###Team:
 + [Sergey Ocheretenko](https://github.com/SergeyOcheretenko)
